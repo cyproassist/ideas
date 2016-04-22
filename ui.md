@@ -44,5 +44,7 @@ A complete framework for the development of HTML UI components with its own prop
 
 A web components based framework for the development of HTML UIs. Uses features like shadow dom that are not natively supported by most current browsers.
 
+### [D3.js](https://d3js.org/)
 
+JavaScript library for manipulating documents based on data. "Brings data to life using HTML, SVG, and CSS". Powerfull visualization and animation of data with an easy-to-use syntax. Performant up to ten thousands of data-points.
 
