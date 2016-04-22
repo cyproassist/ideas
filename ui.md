@@ -47,3 +47,7 @@ A complete framework for the development of HTML UI components with its own prop
 #### [Polymer](https://www.polymer-project.org/)
 
 A web components based framework for the development of HTML UIs. Uses features like shadow dom that are not natively supported by most current browsers.
+
+#### [DevExtreme](http://js.devexpress.com/)
+
+ HTML5 and JavaScript based Application Framework that can generate native applications for smartphones and tablets (Windows Phone, iOS and Android)
