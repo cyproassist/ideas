@@ -25,6 +25,12 @@ HTTP REST web services.
 - no capabilities for searching
 - may not be well suited for time series data (process and machine data)
 
+### OSLC
+
+An interface specification that was mainly developed to connect tools for software lifecycle management by using linked data principles. OSLC v3 is now an extension of LDP.
+
+An interesting concept of OSLC are [Delegated Dialogs](https://tools.oasis-open.org/version-control/svn/oslc-core/trunk/specs/dialogs.html) that allow for embedding of foreign UI components for the creation or selection of resources that are contained within external software systems.
+
 ### Constrained Application Protocol (CoAP)
 
 A binary protocol as compact alternative to HTTP for REST-style access to sensor data. 
