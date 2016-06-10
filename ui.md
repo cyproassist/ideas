@@ -51,9 +51,15 @@ A web components based framework for the development of HTML UIs. Uses features 
 #### [DevExtreme](http://js.devexpress.com/)
 
  HTML5 and JavaScript based Application Framework that can generate native applications for smartphones and tablets (Windows Phone, iOS and Android)
+
+#### [vis.js](http://visjs.org/) 
+
+A dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d and Graph3d.
  
- ## C#
  
- #### [XAMARIN](https://www.xamarin.com/platform)
+ 
+## C#
+ 
+#### [XAMARIN](https://www.xamarin.com/platform)
 
 Xamarin brings open source .NET to mobile development, enabling every developer to build truly native apps for any device in C# and F#. We’re excited for your contributions in continuing our mission to make it fast, easy, and fun to build great mobile apps. 
